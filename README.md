@@ -56,7 +56,7 @@ project/
    - Files should contain normalized coordinate data
 2. Run training script:
    ```
-   python full_data_rf_training.py
+   without_cross_validation.py
    ```
 
 ### Recording Gestures & Prediction

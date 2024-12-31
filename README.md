@@ -1,4 +1,4 @@
-# magic-wand
+# Magic-Wand
 
 Random Forest Model Training and Prediction with GUI
 

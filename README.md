@@ -19,7 +19,7 @@ This project implements a Random Forest-based machine learning pipeline for trai
 ```
 project/
 ├── All Data/                    # Directory containing labeled CSV files for training
-├── full_data_rf_traininig.py   # Model training script
+├── without_cross_validation.py   # Model training script
 ├── gui_predictor.py            # GUI application for gesture recording and prediction
 ├── rf_all_data_model_files/    # Directory storing model files
 │   ├── model.pkl               # Trained Random Forest model
